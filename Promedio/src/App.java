@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class App {
     public static void main(String[] args) throws Exception {
-          String numero1;
+        String numero1;
         String numero2;
         String numero3;
         numero1 = JOptionPane.showInputDialog("Ingrese el primer numero");
