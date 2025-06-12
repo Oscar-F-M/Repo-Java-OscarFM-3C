@@ -1,4 +1,4 @@
-package com.example.holamundojavafx;
+package com.example.demooscarjavafx;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
